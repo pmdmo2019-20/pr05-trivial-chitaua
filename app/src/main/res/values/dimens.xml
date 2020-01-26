@@ -5,4 +5,8 @@
     <dimen name="quadruple_margin">32dp</dimen>
     <dimen name="main_toolbar_elevation">8dp</dimen>
     <dimen name="image_header_height">192dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="imgTitle">250dp</dimen>
+    <dimen name="imgTitleMargTop">32dp</dimen>
+    <dimen name="text_size">18sp</dimen>
 </resources>
